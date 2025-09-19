@@ -3,9 +3,9 @@
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
-		"deploy": "wrangler deploy",
-		"dev": "wrangler dev",
-		"start": "wrangler dev"
+		"deploy": "wrangler pages deploy --project-name=hello-cloudflare-pages",
+		"dev": "wrangler pages dev",
+		"start": "wrangler pages dev"
 	},
 	"devDependencies": {
 		"wrangler": "^4.38.0"
