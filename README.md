@@ -34,3 +34,8 @@ curl http://localhost:8788/api/d1
 
 
 ```
+
+
+[Cron Triggers]
+
+https://developers.cloudflare.com/workers/configuration/cron-triggers/
