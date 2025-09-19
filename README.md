@@ -1,5 +1,15 @@
 
+```
+npm run dev
+```
 
+
+[Pages]
+
+```
+https://developers.cloudflare.com/pages/
+npm create cloudflare@latest -- --platform=pages
+```
 
 [R2]
 
@@ -13,5 +23,5 @@ curl -X POST "http://localhost:8788/get?key=hello.txt"
 
 ```
 npx wrangler d1 create hello-cloudflare-pages
-
+npm create cloudflare@latest -- --platform=pages
 ```
