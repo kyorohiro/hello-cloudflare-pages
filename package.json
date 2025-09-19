@@ -8,6 +8,10 @@
 		"start": "wrangler pages dev"
 	},
 	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20250919.0",
 		"wrangler": "^4.38.0"
+	},
+	"dependencies": {
+		"hono": "^4.9.8"
 	}
 }
