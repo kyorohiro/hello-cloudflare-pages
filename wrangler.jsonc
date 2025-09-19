@@ -21,6 +21,13 @@
 	],
 	// ← これを入れる
 	"pages_build_output_dir": "./public",
+	"d1_databases": [
+		{
+			"binding": "SQLDB",
+			"database_name": "hello-cloudflare-pages",
+			"database_id": "df825ca8-1ccb-4bdc-be1b-6ec9885f28ec"
+		}
+	],
 	// （任意）functions の場所を変えていたら明示
 	// "functions": "./functions"
 }
